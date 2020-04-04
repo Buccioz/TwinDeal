@@ -1,7 +1,7 @@
 # TwinDeal-Developed by Buccioz
 --Encrypted chat using Ngrok and Cryptcat--
 
-Twin deal is a simple script that run both of these tools and create a friendly user platform for use them.
+Twin deal is a simple script that runs both of these tools and creates a friendly user platform to use them.
 
 # -----Cryptcat-----
 Cryptcat is the standard netcat enhanced with twofish encryption with ports for WIndows NT, BSD and Linux. Twofish is courtesy of counterpane, and cryptix.
