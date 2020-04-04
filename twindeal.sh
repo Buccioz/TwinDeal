@@ -51,11 +51,12 @@ fi
            echo "";
            echo "";
    #starting server---------------------------------------------------- 
+           clear
            echo "Starting server...";
            echo 
            echo "Local Host:" $(sudo ifconfig | sed -En 's/127.0.0.1//;s/.*inet (addr:)?(([0-9]*\.){3}[0-9]*).*/\2/p');
            read -p 'Local Port:' porthost
-           
+           clear
    #opening ngrok -----------------------------------------------------
             xterm -e ./ngrok tcp $porthost &
               
