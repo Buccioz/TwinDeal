@@ -4,6 +4,7 @@
 
 # -----Setup-----
 chmod +x twindeal.sh
+
 ./twindeal (root required)
 
 # -----Cryptcat-----
