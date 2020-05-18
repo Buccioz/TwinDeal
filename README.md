@@ -3,9 +3,9 @@
 --Encrypted chat using Ngrok and Cryptcat--
 
 # -----Setup-----
-chmod +x twindeal.sh
+1 - chmod +x twindeal.sh
 
-./twindeal (root required)
+2 - ./twindeal (root required)
 
 # -----Cryptcat-----
 Cryptcat is the standard netcat enhanced with twofish encryption with ports for WIndows NT, BSD and Linux. Twofish is courtesy of counterpane, and cryptix.
