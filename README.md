@@ -5,7 +5,7 @@
 # -----Setup-----
 1 - chmod +x twindeal.sh
 
-2 - ./twindeal (root required)
+2 - ./twindeal.sh (root required)
 
 # -----Cryptcat-----
 Cryptcat is the standard netcat enhanced with twofish encryption with ports for WIndows NT, BSD and Linux. Twofish is courtesy of counterpane, and cryptix.
